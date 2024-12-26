@@ -1,0 +1,14 @@
+﻿  Source.cpp
+E:\FCIS ASU Courses\Third Year\Fifth Semester\Data mining\Project\ECLAT Project\ECLAT\ECLAT\Source.cpp(243,84): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\FCIS ASU Courses\Third Year\Fifth Semester\Data mining\Project\ECLAT Project\ECLAT\ECLAT\Source.cpp(249,84): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\FCIS ASU Courses\Third Year\Fifth Semester\Data mining\Project\ECLAT Project\ECLAT\ECLAT\Source.cpp(251,83): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\FCIS ASU Courses\Third Year\Fifth Semester\Data mining\Project\ECLAT Project\ECLAT\ECLAT\Source.cpp(474,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ECLAT.vcxproj -> E:\FCIS ASU Courses\Third Year\Fifth Semester\Data mining\Project\ECLAT Project\ECLAT\x64\Debug\ECLAT.exe
