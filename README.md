@@ -1,7 +1,5 @@
 # ECLAT-Algorithm-Data-Mining
 implementing ECLAT algorithm using c++ (December 2023)
-# Neural-Network-
-ANN Tasks , DL project
 
 ## Contributers
 - [Ahmed Galal](https://github.com/1AhmedGalal)
