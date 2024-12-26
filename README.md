@@ -1,5 +1,5 @@
 # ECLAT-Algorithm-Data-Mining
-implementing ECLAT algorithm using c++ (December 2023)
+implementing ECLAT algorithm using C++ (December 2023)
 
 ## Contributers
 - [Ahmed Galal](https://github.com/1AhmedGalal)
